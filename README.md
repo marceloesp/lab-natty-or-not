@@ -15,6 +15,6 @@ Este projeto explora a criação de um vídeo utilizando um avatar virtual gerad
 ## 🚀 Resultados
 O vídeo final apresenta um avatar virtual explicando a importância dos jogos e seus múltiplos benefícios, incluindo saúde física e mental.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Criar um conteúdo 'natty' com IA foi um desafio interessante, mas as ferramentas disponíveis tornam o processo muito acessível.
 
